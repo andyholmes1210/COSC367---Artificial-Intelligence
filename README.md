@@ -1,4 +1,4 @@
-# COSC367---Artificial-Intelligence
+# COSC367 - Artificial-Intelligence
 
 ### Lab1 ###
 - Astar, BFS, DFSFrontier Search algorithms
